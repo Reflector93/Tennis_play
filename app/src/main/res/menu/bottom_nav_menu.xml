@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_firstBar"
+        android:icon="@drawable/first_bar_icon"
+        android:title="@string/title_tournaments" />
+
+    <item
+        android:id="@+id/navigation_secondBar"
+        android:icon="@drawable/second_bar_icon"
+        android:title="@string/title_search_partner" />
+
+    <item
+        android:id="@+id/navigation_thirdBar"
+        android:icon="@drawable/third_bar_icon"
+        android:title="@string/title_enter" />
+
+</menu>
